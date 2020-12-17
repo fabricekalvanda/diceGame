@@ -1,4 +1,6 @@
-﻿using System;
+//Fabrice Kalvanda
+
+using System;
 
 namespace diceGame
 {
@@ -50,3 +52,5 @@ namespace diceGame
         }
     }
 }
+
+//Fabrice Kalvanda
